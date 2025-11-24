@@ -87,4 +87,12 @@ The weights and baseline values are easy to adjust if you want to experiment.
 
 This project can be used for educational and academic purposes. Feel free to modify and extend it as needed.
 
-Screenshot 2025-11-25 000025 Screenshot 2025-11-25 000038 Screenshot 2025-11-25 000050 Screenshot 2025-11-25 000059 Screenshot 2025-11-25 000109 Screenshot 2025-11-25 000118 Screenshot 2025-11-25 000128
+<img width="849" height="949" alt="Screenshot 2025-11-25 000025" src="https://github.com/user-attachments/assets/86399eef-93e4-4158-a9e3-632e8dca4e84" />
+<img width="1014" height="951" alt="Screenshot 2025-11-25 000038" src="https://github.com/user-attachments/assets/ade2997c-1829-4091-9184-4fb8c62dbf91" />
+<img width="1229" height="1019" alt="Screenshot 2025-11-25 000050" src="https://github.com/user-attachments/assets/ab2d4cc1-65f0-4cd7-9496-7fc4ee545b8d" />
+<img width="1217" height="942" alt="Screenshot 2025-11-25 000059" src="https://github.com/user-attachments/assets/a526a55e-715a-4d02-888c-a345dbb332e5" />
+![Uploading Screenshot 2025-11-25 000128.png…]()
+
+
+
+
